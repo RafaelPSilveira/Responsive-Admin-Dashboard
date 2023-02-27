@@ -80,6 +80,7 @@ h4{
 h5{
     font-size: 0.86rem;
     font-weight: 500;
+    color: var(--color-dark);
 }
 
 h6{
